@@ -34,7 +34,7 @@ As alternativas (Android e iPhone) são comparadas para cada critério.
 
 ### 3. Matriz de Comparação dos Critérios
 
-Os critérios são comparados entre si e as alternativas são avaliadas em relação a cada critério. As comparações utilizam uma escala de 1 a 9 (Escala de Saati):
+Os critérios são comparados entre si e as alternativas são avaliadas em relação a cada critério. As comparações utilizam uma escala de 1 a 9 (Escala de Saaty):
 
 | Intensidade | Definição                                          |
 |-------------|----------------------------------------------------|

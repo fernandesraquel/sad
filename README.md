@@ -18,35 +18,35 @@ As seções a seguir organizam as capturas de tela obtidas durante o processo.
 
 ---
 
-### 2. Matriz de Comparação dos Critérios
-As comparações par a par entre os critérios são realizadas.  
+### 2. Comparação das Alternativas por Critério
+As alternativas (Android e iPhone) são comparadas para cada critério.  
 
-**Print da matriz de comparação:**  
-![Matriz de Comparação dos Critérios](path/to/matriz_comparacao_criterios.png)
+**Prints das matrizes de comparação por critério:**   
+  ![Comparação - Preço](unidade_2/imagens/comp_preco.jpg)  
+
+  ![Comparação - Desempenho](unidade_2/imagens/comp_desempenho.jpg)  
+
+  ![Comparação - Qualidade da Câmera](unidade_2/imagens/comp_camera.jpg)  
+
+  ![Comparação - Ecossistema](unidade_2/imagens/comp_ecossistema.jpg)  
 
 ---
 
-### 3. Comparação das Alternativas por Critério
-As alternativas (Android e iPhone) são comparadas para cada critério.  
+### 3. Matriz de Comparação dos Critérios
 
-**Prints das matrizes de comparação por critério:**  
-- **Preço:**  
-  ![Comparação - Preço](path/to/comparacao_preco.png)
+Os critérios são comparados entre si e as alternativas são avaliadas em relação a cada critério. As comparações utilizam uma escala de 1 a 9 (Escala de Saati):
 
-- **Desempenho:**  
-  ![Comparação - Desempenho](path/to/comparacao_desempenho.png)
+| Intensidade | Definição                                          |
+|-------------|----------------------------------------------------|
+| 1           | Importância igual                                  |
+| 3           | Importância moderada                               |
+| 5           | Importância forte                                  |
+| 7           | Importância muito forte                            |
+| 9           | Importância extrema                                |
+| 2, 4, 6, 8  | Valores intermediários entre os valores adjacentes |
 
-- **Qualidade da Câmera:**  
-  ![Comparação - Qualidade da Câmera](path/to/comparacao_camera.png)
-
-- **Ecossistema:**  
-  ![Comparação - Ecossistema](path/to/comparacao_ecossistema.png)
-
-- **Durabilidade:**  
-  ![Comparação - Durabilidade](path/to/comparacao_durabilidade.png)
-
-- **Facilidade de Uso:**  
-  ![Comparação - Facilidade de Uso](path/to/comparacao_facilidade_uso.png)
+**Print da matriz de comparação:**  
+![Matriz de Comparação dos Critérios](unidade_2/imagens/matriz.jpg)
 
 ---
 
@@ -54,9 +54,26 @@ As alternativas (Android e iPhone) são comparadas para cada critério.
 O sistema apresenta os pesos calculados e a alternativa ideal com base na soma ponderada dos critérios.  
 
 **Print dos resultados finais:**  
-![Resultados Finais](path/to/resultados_finais.png)
+![Resultados Finais](unidade_2/imagens/result.jpg)
+
+### Critérios mais relevantes:
+1. **Desempenho (0,3699)** - Considerado o fator mais importante na decisão, onde Android demonstrou vantagem.
+2. **Durabilidade (0,3545)** - Segundo critério mais relevante, novamente favorecendo Android.
+3. **Ecossistema (0,1459)** - Apresentou impacto moderado na decisão, mas não foi determinante.
+
+### Critérios com menor influência:
+- **Preço (0,0762)**: Relevância baixa.
+- **Qualidade da Câmera (0,0350)**: Influência mínima.
+- **Facilidade de Uso (0,0185)**: Peso quase desprezível.
+
+### Razão de Consistência (CR)
+A análise apresenta uma **Razão de Consistência (CR)** de **0,3223**, indicando que os julgamentos têm um nível de consistência razoável, mas poderiam ser aprimorados.
 
 ---
 
 ## Conclusão
-As capturas de tela ilustram o processo e os resultados do método AHP para a decisão entre Android e iPhone.
+
+A análise realizada utilizando o método AHP revelou que a alternativa **Android** é a escolha para o problema de decisão, com uma pontuação de **0,5494**, em comparação com o **iPhone**, que obteve **0,4506**.
+
+
+

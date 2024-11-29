@@ -14,7 +14,7 @@ As seções a seguir organizam as capturas de tela obtidas durante o processo.
 - Critérios: Preço, Desempenho, Qualidade da Câmera, Ecossistema, Durabilidade, Facilidade de Uso.
 
 **Print da configuração do problema:**  
-![Configuração do Problema](path/to/configuracao_problema.png)
+![Configuração do Problema](config.jpg)
 
 ---
 
